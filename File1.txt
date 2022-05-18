@@ -1,2 +1,14 @@
 First Good
 Second Line
+1	Sources of information
+2	Names and titles
+3	Early life
+4	Date
+4.1	Ancestry
+5	As a prince
+5.1	Rebellion at Taxila
+5.2	Governor of Ujjain
+6	Ascension to the throne
+6.1	Date of ascension
+7	Reign before Buddhist influence
+8	Kalinga war and conversion to Buddhism
